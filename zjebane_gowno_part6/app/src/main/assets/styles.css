@@ -1,0 +1,19 @@
+.my_body{
+background: url(kartka.jpg) no-repeat;
+background-size: 800px 325px;
+position: relative;
+top: 85px;
+left: 15px;
+width: 90%;
+height: 70%;
+}
+.scroll{
+overflow:scroll;
+scroll-behavior: auto;
+width:50%;
+height:70%;
+}
+.przycisk{
+width: 100px;
+height:50px;
+}
